@@ -9,4 +9,4 @@ Examples of different machine learning regression models
 + Decision Tree Classification
 + Random Forest Classification
 
-These models are suitable for determining real values in *prediction* scenarios, where we could be forcasting a future value in a time series, or trying to prdict an unknown value based on some observations.
+These models are suitable for determining real values in *prediction* scenarios, where we could be forecasting a future value in a time series, or trying to prdict an unknown value based on some observations.
