@@ -14,4 +14,4 @@ These models are suitable for determining real values in *prediction* scenarios,
 ### A note on evaluating these models:
 The models contained in these notebooks are just demosntrations of the machine learning models in Python, not full blown analyses. There are some important, citical, steps left out for these to be meaningful as a data product. Of the important things left out, one that directly pertains to these models in the evaluation step of the model's performance.
 
-For regression models, it is worth considering the $R^{2}$ or the adjusted $R^{2}$ when evaluating their performance. Also, consider interpreting your model's coefficients when telling the story. These represent the unit increase, or decrease, for whatever field they are describing in your model.
+For regression models, it is worth considering the R-squared or the adjusted R-squared, when evaluating their performance. Also, consider interpreting your linear regression model's coefficients when telling the story. These represent the unit increase, or decrease, for whatever field they are describing in your model.
